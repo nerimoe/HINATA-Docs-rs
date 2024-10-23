@@ -1,0 +1,11 @@
+[book]
+authors = ["红月"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "HINATA Manual"
+description = "HINATA读卡器的说明书"
+
+[output.html]
+git-repository-url = "https://github.com/rust-lang/mdBook"
+no-section-label = true
