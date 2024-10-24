@@ -39,10 +39,10 @@ HINATA Lite 通电时背面会有常亮的红色灯光，请不要在意
 白卡需要写入卡号后方可在SEGA游戏中使用
 如果你有自己的`Aime`卡片，`Banapass`卡片或 `Amusement IC`（四社通）卡片，并且不想使用赠送的白卡，可以**跳过**该步骤
 
-写入方式请见：[卡片读写](HCP/README.md)
+写入方式请见：[卡片读写](HCP/index.md#卡片读写)
 
 ### 3. 开始配置游戏
-[SEGA游戏](SEGA/README.md)
+[SEGA游戏](SEGA/index.md)
 
-[KONAMI游戏](KONAMI/README.md)
+[KONAMI游戏](KONAMI/index.md)
 

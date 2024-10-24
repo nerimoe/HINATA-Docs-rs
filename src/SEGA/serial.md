@@ -53,7 +53,7 @@
 4. 启动游戏
 
 ## 其他页面
-* [调整串口模式下灯光亮度](../HCP/README.md)
+* [调整串口模式下灯光亮度](../HCP/index.md)
 * [AimeIO方式连接SEGA游戏](aimeio.md)
 * [游戏内测试读卡器](in_game_test.md)
-* [KONAMI游戏设置](../KONAMI/README.md)
+* [KONAMI游戏设置](../KONAMI/index.md)
