@@ -7,5 +7,5 @@ title = "HINATA Manual"
 description = "HINATA读卡器的说明书"
 
 [output.html]
-git-repository-url = "https://github.com/rust-lang/mdBook"
+git-repository-url = "https://github.com/nerimoe/HINATA-Docs-rs"
 no-section-label = true
