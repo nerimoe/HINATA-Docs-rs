@@ -29,7 +29,7 @@ HINATA通电时会亮起黄色灯光，与电脑USB握手成功后会渐变为�
 HINATA Lite 通电时背面会有常亮的红色灯光，请不要在意
 ![connection](<assets/connection.jpg>)
 
-此时在Windows的```设备管理器```中应该可以看到HINATA设备
+此时在Windows的`设备管理器`中应该可以看到HINATA设备
 
 ![devmgr0](<assets/devmgr0.png>) ![devmgr1](<assets/devmgr1.png>)
 
