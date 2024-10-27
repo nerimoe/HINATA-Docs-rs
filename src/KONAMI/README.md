@@ -8,7 +8,7 @@
    
    ![spicecardio](assets/spicecardio.png)
 
-3. 如果勾选 `CardIO HID Reader Support (-cardio)` 后读卡器不工作（可能会出现在远古版本的 Spice 或非 Windows10 及以上的版本上）请尝试勾选 `HID SmartCard`
+3. 如果勾选 `CardIO HID Reader Support (-cardio)` 后读卡器不工作（可能会出现在远古版本的 Spice 或非 Windows10 及以上的版本上）请尝试勾选 `HID SmartCard`，请确认不工作时再勾选，非必要情况请勿勾选
 4. 如果发现刷卡的槽位不对（例如 IIDX 这种有 1P 和 2P 的游戏）<br>请勾选下面的 `xxx Order Flip`
 
 默认情况下 CardIO 偏向最高兼容性，能刷入的卡包括:
