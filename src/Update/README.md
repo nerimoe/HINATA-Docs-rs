@@ -7,5 +7,5 @@
 ## 更新方式
 ![update](assets/update.png)
 1. 首先解压更新包
-2. 安装 `CH372DRV.exe`
+2. 安装 `CH372DRV.EXE`
 3. 双击 `flash.bat`，并按照脚本内的提示更新固件
