@@ -11,7 +11,7 @@ B站简介视频：[点我](https://www.bilibili.com/video/BV1Gi421i7ej/)
 
 售后群：[362419355](https://qm.qq.com/q/r6ptk9XsQ2)
 
-海外用户可以联系我的telegram：[@nerimoe](http://t.me/nerimoe)
+海外用户可以联系我的 Telegram：[@nerimoe](http://t.me/nerimoe)
 
 ## 开箱
 默认情况下标准版用户可以收到：
